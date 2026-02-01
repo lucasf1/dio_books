@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Projeto para o desafio da formação Ruby Developer da DIO.
+Nele foi gerado um crud de livros lidos com as seguintes colunas:
+1. Título do livro
+2. Autor do livro
+3. Nota do livro
+4. Descrição do livro
